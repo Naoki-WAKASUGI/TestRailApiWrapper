@@ -1,0 +1,2 @@
+# TestRailApiWrapper
+TestRailAPIによるリグレッションテスト作成自動化のテスト
